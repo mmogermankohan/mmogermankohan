@@ -1,16 +1,19 @@
-## Hi there 👋
+<!--Banner Personalizado (puedes cambiar la URL de la imagen)-->
 
-<!--
-**mmogermankohan/mmogermankohan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!--Header Nombre-->
+<img src="https://emojis.slackmojis.com/emojis/images/1643516216/29857/map.gif?1643516216" width="30"/> ¡Hola! Soy Germán Kohan
+Desarrollador de Geoportales y Sistemas de Gestión Gubernamental
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--Introducción--> <p align="left">Soy un desarrollador especializado en la creación de geoportales y sistemas de gestión de trámites para gobiernos municipales. Mi enfoque principal es la integración de tecnologías web con sistemas geoespaciales para proporcionar soluciones eficientes y escalables. Trabajo con tecnologías como React, PostgreSQL y GeoServer, y combino mi experiencia en desarrollo de mapas utilizando QGIS, ArcGIS y AutoCAD.</p>
+📍 13 año de experiencia en proyectos de infraestructura municipal y gestión pública.<br/>
+🌍 Enfocado en el desarrollo de Geoportales y Sistemas GIS. <br/>
+📊 Apasionado por la visualización de datos geoespaciales.<br/>
+💻 Actualmente, aprendiendo técnicas avanzadas de SIG y desarrollo web.<br/>
+<!--Sección de Lenguajes y Herramientas--> <h2 align="center">💻 Tᴇᴄɴᴏʟᴏɢɪ́ᴀs ʏ Hᴇʀʀᴀᴍɪᴇɴᴛᴀs 💻</h2> <p align="center"> <img width="600px" src="https://skillicons.dev/icons?i=js,react,html,css,sass,postgres,git" /> <img width="600px" src="https://skillicons.dev/icons?i=leaflet,qgis,arcgis,postgis,autocad" /> </p>
+<!--Sección de Proyectos Destacados--> <h2 align="center">🚀 Pʀᴏʏᴇᴄᴛᴏs Dᴇsᴛᴀᴄᴀᴅᴏs 🚀</h2> <table width="100%"> <tr> <td width="50%"> <h3 align="center">🌐 Sistema de Gestión Catastral</h3> <p align="center"> <a href="https://github.com/mmogermankohan/sistema-catastral"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mmogermankohan&repo=sistema-catastral&theme=radical&show_owner=true" alt="Sistema de Gestión Catastral" /> </a> </p> </td> <td width="50%"> <h3 align="center">🗺️ Geoportal de Información Urbana</h3> <p align="center"> <a href="https://github.com/mmogermankohan/geoportal-urbano"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mmogermankohan&repo=geoportal-urbano&theme=radical&show_owner=true" alt="Geoportal de Información Urbana" /> </a> </p> </td> </tr> </table>
+<!--Sección de Estadísticas--> <h2 align="center">📊 Eᴛᴀᴅɪ́sᴛɪᴄᴀs ᴅᴇ Gɪᴛʜᴜʙ 📊</h2> <table width="100%"> <tr> <td width="50%"> <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3> <p align="center"> <a href="https://github.com/mmogermankohan"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=mmogermankohan&count_private=true&show_icons=true&theme=radical" alt="GitHub Stats" /> </a> </p> </td> <td width="50%"> <h3 align="center"><strong>Racha de Contribuciones</strong></h3> <p align="center"> <a href="https://github.com/mmogermankohan"> <img align="center" src="https://streak-stats.demolab.com?user=mmogermankohan&theme=radical" alt="Streak Stats" /> </a> </p> </td> </tr> </table>
+<!--Gráfico de Contribuciones--> <h2 align="center">📈 Gʀᴀ́ғɪᴄᴏ ᴅᴇ Cᴏɴᴛʀɪʙᴜᴄɪᴏɴᴇs 📈</h2> <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=mmogermankohan&bg_color=0d1117&color=f8d866&line=5cc8ff&point=fb8b24&area=true&hide_border=true" alt="Activity Graph"> </div>
+<!--Frase Motivacional--> <h2 align="center">🌟 Pᴇɴsᴀᴍɪᴇɴᴛᴏ Dᴇʟ Dɪ́ᴀ 🌟</h2> <p align="center"> <img src="https://readme-daily-quotes.vercel.app/api?author=Confucio&quote=“Estudia el pasado si quieres definir el futuro.”&theme=dark"> </p>
+<!--Conexiones--> <h2 align="center">🤝 Cᴏɴᴇᴄᴛᴀ ᴄᴏɴᴍɪɢᴏ 🤝</h2> <div align="center"> <a href="https://www.linkedin.com/in/mmogermankohan/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-%231E77B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="mailto:mmogermankohan@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> </div>
+<!--Footer--> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/> </p>
