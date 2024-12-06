@@ -8,6 +8,7 @@ Maestro Mayor de Obras como segunda profesión y el aspecto distintivo para la c
 🌍 Enfocado en el desarrollo de Geoportales y Sistemas GIS. <br/>
 📊 Apasionado por la visualización de datos geoespaciales.<br/>
 💻 Actualmente, aprendiendo técnicas avanzadas de SIG y desarrollo web.<br/>
+📍 Director de Procesamiento de Datos y Valuaciones Inmobiliarias en el Municipio de Barranqueras - Chaco<br/>
 <!--Sección de Lenguajes y Herramientas--> <h2 align="center">💻 Tᴇᴄɴᴏʟᴏɢɪ́ᴀs ʏ Hᴇʀʀᴀᴍɪᴇɴᴛᴀs 💻</h2> <p align="center"> <img width="600px" src="https://skillicons.dev/icons?i=html,css,sass,js,react,postgres,mysql,git,vscode,notion,xd" /><img src="./assets/Qgis.png" width=45" height=45" alt="QGIS Logo" /> <img src="./assets/autoCAD.png" width=45" height=45" alt="AutoCAD" /><img src="./assets/ArcGIS.png" width=45" height=45" alt="ArcGIS" /><img src="./assets/Geoserver.png" width=45" height="45" alt="ArcGIS" /></p>
 <!-- Sección de Proyectos Destacados -->
 <h2 align="center">🚀 Pʀᴏʏᴇᴄᴛᴏ Dᴇsᴛᴀᴄᴀᴅᴏ 🚀</h2>
