@@ -4,7 +4,7 @@ Desarrollador de Geoportales y Sistemas de Gestión Gubernamental.
 Maestro Mayor de Obras como segunda profesión y el aspecto distintivo para la combinación entre el mundo del desarrollo web y la arquitectura.
 
 <!--Introducción--> <p align="left">Mi enfoque principal es la integración de tecnologías web con sistemas geoespaciales para proporcionar soluciones eficientes y escalables, especialmente con áreas como Topografía y Catastro, Arquitectura y Urbanismo, Obras Públicas y Servicios Públicos. Trabajo con tecnologías como React, PostgreSQL, GeoServer, y combino mi experiencia en desarrollo de mapas utilizando QGIS, ArcGIS y AutoCAD.</p>
-📍 13 año de experiencia en proyectos de infraestructura municipal y gestión pública.<br/>
+📍 13 años de experiencia en proyectos de infraestructura municipal y gestión pública.<br/>
 🌍 Enfocado en el desarrollo de Geoportales y Sistemas GIS. <br/>
 📊 Apasionado por la visualización de datos geoespaciales.<br/>
 💻 Actualmente, aprendiendo técnicas avanzadas de SIG y desarrollo web.<br/>
